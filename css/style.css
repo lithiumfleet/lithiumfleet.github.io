@@ -3194,23 +3194,6 @@ pre .deletion {
 .progress-bar-container .pjax-progress-icon.show {
   visibility: visible;
 }
-.progress-bar-container .scroll-progress-bar {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 2px;
-  visibility: hidden;
-  z-index: 1007;
-  background: var(--primary-color);
-  transition-property: color, background, box-shadow, border-color, width;
-  transition-delay: 0s, 0s, 0s, 0s, 0s;
-  transition-duration: 0.2s, 0.2s, 0.2s, 0.2s, 0.1s;
-  transition-timing-function: ease, ease, ease, ease, linear;
-}
-.progress-bar-container .scroll-progress-bar.hide {
-  display: none !important;
-}
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
@@ -3962,16 +3945,6 @@ pre .deletion {
 .side-tools-container .hidden-tools-list.show {
   opacity: 1;
   transform: translateX(0);
-}
-@media (max-width: 780px) {
-  .side-tools-container .visible-tools-list .tool-aplayer {
-    display: none;
-  }
-}
-@media (max-width: 500px) {
-  .side-tools-container .visible-tools-list .tool-aplayer {
-    display: none;
-  }
 }
 :root {
   --background-color: #fff;
@@ -9757,49 +9730,6 @@ pre .deletion {
 .aplayer:hover .aplayer-body {
   padding-right: 28px;
   transition: padding-right 0.3s ease;
-}
-.aplayer {
-  position: fixed;
-  bottom: 46px;
-  right: 39px;
-  margin: 0;
-  z-index: 99;
-  overflow-y: hidden;
-  max-width: 400px;
-  width: 40px !important;
-  height: 40px !important;
-  border-radius: 11.2px !important;
-}
-@media (max-width: 780px) {
-  .aplayer {
-    display: none;
-  }
-}
-@media (max-width: 500px) {
-  .aplayer {
-    display: none;
-  }
-}
-.aplayer-pic {
-  position: fixed !important;
-  width: 38px !important;
-  height: 38px !important;
-  border-radius: 11.2px !important;
-}
-.aplayer-play {
-  width: 13px !important;
-  height: 13px !important;
-  border: 2px solid #fff !important;
-  bottom: 50% !important;
-  right: 50% !important;
-  margin: 0 -9px -9px 0 !important;
-}
-.aplayer-play svg {
-  position: absolute !important;
-  top: 0px !important;
-  left: 1px !important;
-  height: 13px !important;
-  width: 13px !important;
 }
 @-moz-keyframes aplayer-roll {
   0% {
