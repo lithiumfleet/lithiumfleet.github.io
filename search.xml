@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>从活页本和笔到supermemo</title>
+    <url>/2023/07/03/%E4%BB%8E%E6%B4%BB%E9%A1%B5%E6%9C%AC%E5%92%8C%E7%AC%94%E5%88%B0supermemo/</url>
+    <content><![CDATA[<h3 id="从活页本和笔到supermemo"><a href="#从活页本和笔到supermemo" class="headerlink" title="从活页本和笔到supermemo"></a>从活页本和笔到supermemo</h3><p>我以前就会不停地更换学习工具, 先是初中时的笔,再是高中时怎么也写不满半本的活页本.<br>现在, 我还是会从幕布换到vscode, typora, obsidian. 现在到了supermemo.<br>学习工具的快速迭代并没带来生产力的提升, 也许是值得反思的一点.<br>不过我可能之后不会再变了, 除非我要用Latex</p>
+<p>标题含义是同为学习工具, 和工具的迭代.</p>
+<h4 id="supermemo"><a href="#supermemo" class="headerlink" title="supermemo"></a>supermemo</h4><ul>
+<li>目前掌握的功能:<ul>
+<li>制卡</li>
+<li>复习</li>
+</ul>
+</li>
+<li>希望达成的效果:<ul>
+<li>和obsidian联动, 将笔记的一部分转为卡片, 同时兼有问题集</li>
+<li>渐进阅读的材料</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>thoughts</category>
+      </categories>
+  </entry>
+  <entry>
     <title>何为学会</title>
     <url>/2023/07/03/%E4%BD%95%E4%B8%BA%E5%AD%A6%E4%BC%9A/</url>
     <content><![CDATA[<h3 id="何为学会"><a href="#何为学会" class="headerlink" title="何为学会"></a>何为学会</h3><p>我对于学会的定义较为模糊，大致为理解、运用和需掌握的高耦合知识</p>
@@ -36,28 +58,6 @@
 <li>高耦合知识：<ol>
 <li>外延数学：复变函数</li>
 </ol>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>thoughts</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>从活页本和笔到supermemo</title>
-    <url>/2023/07/03/%E4%BB%8E%E6%B4%BB%E9%A1%B5%E6%9C%AC%E5%92%8C%E7%AC%94%E5%88%B0supermemo/</url>
-    <content><![CDATA[<h3 id="从活页本和笔到supermemo"><a href="#从活页本和笔到supermemo" class="headerlink" title="从活页本和笔到supermemo"></a>从活页本和笔到supermemo</h3><p>我以前就会不停地更换学习工具, 先是初中时的笔,再是高中时怎么也写不满半本的活页本.<br>现在, 我还是会从幕布换到vscode, typora, obsidian. 现在到了supermemo.<br>学习工具的快速迭代并没带来生产力的提升, 也许是值得反思的一点.<br>不过我可能之后不会再变了, 除非我要用Latex</p>
-<p>标题含义是同为学习工具, 和工具的迭代.</p>
-<h4 id="supermemo"><a href="#supermemo" class="headerlink" title="supermemo"></a>supermemo</h4><ul>
-<li>目前掌握的功能:<ul>
-<li>制卡</li>
-<li>复习</li>
-</ul>
-</li>
-<li>希望达成的效果:<ul>
-<li>和obsidian联动, 将笔记的一部分转为卡片, 同时兼有问题集</li>
-<li>渐进阅读的材料</li>
-</ul>
 </li>
 </ul>
 ]]></content>
